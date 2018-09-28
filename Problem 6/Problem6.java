@@ -2,7 +2,8 @@ import java.math.BigInteger;
 public class Problem6 {
 	/*
 	 * In order to solve this problem, one might just use int variables as indicated
-	 * in the implemented code following as comment. However we prefer the BigInteger class
+	 * in the implemented code following as comment. However we prefer the BigInteger
+	 * class for the declaration of values
 	 * so that the problem can be solved for an arbitrary value of N. */
 	
 	public static void main(String[] args){
